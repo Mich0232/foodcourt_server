@@ -1,0 +1,16 @@
+[run]
+source=
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api
+omit=
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\venv\*
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core\migrations\*
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core\apps.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core\__init__.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core\urls.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\core\tests\__init__.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api\migrations\*
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api\apps.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api\__init__.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api\urls.py
+    C:\Users\MICHAL\PycharmProjects\foodcourt_server\api\tests\__init__.py
